@@ -1,0 +1,119 @@
+body {
+	font-family: helvetica;
+}
+
+
+/************************************************************************************/
+/*                                   Font styles                                    */
+/************************************************************************************/
+.font_dealer {
+	color: rgb(163, 8, 8);
+	font-weight: bold;
+}
+
+.font_price {
+	font-size: 20px;
+	font-weight: bold;
+	color: rgb(237, 9, 9);
+}
+
+.font_title {
+	font-size: 24px;
+}
+/************************************************************************************/
+
+
+/************************************************************************************/
+/*                                 Container styles                                 */
+/************************************************************************************/
+.container_car {
+	border-radius: 10px;
+	background-color: rgba(216, 216, 216, 0.2);
+	margin-top: 20px;
+}
+
+.container_car_list {
+	border-style: none none solid none;
+	border-width: 3px;
+	border-color: rgb(127, 127, 127);
+	padding: 20px;
+}
+
+.container_car_spec {
+	font-size: 14px;
+	text-align: center;
+	color: rgb(68, 68, 68);
+}
+
+.container_car_spec [class*="col-"] {
+	border-style: none solid none none;
+	border-width: 1px;
+}
+
+.container_car_spec [class*="col-"]:first-child {
+	text-align: left;
+}
+
+.container_car_spec [class*="col-"]:last-child {
+	border-style: none;
+}
+/************************************************************************************/
+
+
+/************************************************************************************/
+/*                                   Button styles                                  */
+/************************************************************************************/
+[class*="btn-"] {
+	padding: 5px 10px;
+}
+
+.btn-border-round {
+	border: solid;
+	border-radius: 8px;
+	border-width: 2px;
+}
+
+.btn-border-black {
+	border-color: rgb(0, 0, 0);
+}
+
+.btn-border-black:hover {
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
+}
+
+.btn-border-black:active {
+	background-color: rgb(232, 232, 232);
+	color: rgb(0, 0, 0);
+}
+
+.btn-default {
+	padding: 10px 20px;
+	background-color: rgb(255, 255, 255);
+	border: none;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-default:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	transform: translate(0, -5px);
+}
+
+.btn-default:active {
+	background-color: rgb(232, 232, 232);
+}
+/************************************************************************************/
+
+
+.img_car_big {
+	min-width: 90%;
+	max-width: 100%;
+	height: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header {
+	border-top: solid; 
+	border-top-width: 10px; 
+	padding-top: 20px;
+}

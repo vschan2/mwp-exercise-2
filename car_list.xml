@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car_list>
+	<car>
+		<name>2009 Proton Exora 1.6 (A) CAMPRO FULL SPEC </name>
+		<mileage>75000 - 79000</mileage>
+		<cc>1.6</cc>
+		<transmission>Automatic</transmission>
+		<type>MPV</type>
+		<location>Kuala Lumpur</location>
+		<price>26333</price>
+		<dealer>Jeremy Renner</dealer>
+		<image>images/exora.jpg</image>
+	</car>
+
+	<car>
+		<name>2010 Proton Persona 1.6 (A) TIP TOP CONDITION </name>
+		<mileage>93000 - 95000</mileage>
+		<cc>1.6</cc>
+		<transmission>Automatic</transmission>
+		<type>Sedan</type>
+		<location>Kuala Lumpur</location>
+		<price>19333</price>
+		<dealer>Mr Basem</dealer>
+		<image>images/persona.jpg</image>
+	</car>
+
+	<car>
+		<name>2009 Proton Perdana 2.0 V6 Enhanced</name>
+		<mileage>80000 - 84500</mileage>
+		<cc>2.0</cc>
+		<transmission>Automatic</transmission>
+		<type>Sedan</type>
+		<location>Kuala Lumpur</location>
+		<price>16800</price>
+		<dealer>El Enix</dealer>
+		<image>images/perdana.jpg</image>
+	</car>
+
+	<car>
+		<name>2010 Proton Saga 1.6 (A) </name>
+		<mileage>80000 - 85500</mileage>
+		<cc>1.6</cc>
+		<transmission>Automatic</transmission>
+		<type>Sedan</type>
+		<location>Kuala Lumpur</location>
+		<price>15000</price>
+		<dealer>Aqeel Safwan</dealer>
+		<image>images/saga.jpg</image>
+	</car>
+
+	<car>
+		<name>2001 Proton Wira 1.8 (A) </name>
+		<mileage>80000 - 85500</mileage>
+		<cc>1.8</cc>
+		<transmission>Automatic</transmission>
+		<type>Sedan</type>
+		<location>Selangor</location>
+		<price>10000</price>
+		<dealer>Chan Vei Siang</dealer>
+		<image>images/wira.jpg</image>
+	</car>
+
+	<car>
+		<name>2008 Proton Satria Neo 1.6 (A) </name>
+		<mileage>80000 - 85500</mileage>
+		<cc>1.6</cc>
+		<transmission>Automatic</transmission>
+		<type>Mini</type>
+		<location>Negeri Sembilan</location>
+		<price>16900</price>
+		<dealer>Haridev Singh</dealer>
+		<image>images/satria_neo.jpg</image>
+	</car>
+</car_list>
